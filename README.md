@@ -4,5 +4,7 @@ the rust programming language
 ```
 .
 ├── 1. Getting Started
-└── 2. Programming A Guessing Game
+├── 2. Programming A Guessing Game
+└── 3. Common Programming Concepts
+    └── 3.1. Variables And Mutability
 ```
