@@ -12,5 +12,6 @@ the rust programming language
 │   ├── 3.4. Comments
 │   └── 3.5. Control Flow
 └── 4. Understanding Ownership
-    └── 4.1. What is Ownership
+    ├── 4.1. What Is Ownership
+    └── 4.2. References And Borrowing
 ```
