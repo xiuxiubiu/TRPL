@@ -13,5 +13,6 @@ the rust programming language
 │   └── 3.5. Control Flow
 └── 4. Understanding Ownership
     ├── 4.1. What Is Ownership
-    └── 4.2. References And Borrowing
+    ├── 4.2. References And Borrowing
+    └── 4.3. The Slice Type
 ```
