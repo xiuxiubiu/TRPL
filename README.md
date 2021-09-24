@@ -11,8 +11,10 @@ the rust programming language
 │   ├── 3.3. Functions
 │   ├── 3.4. Comments
 │   └── 3.5. Control Flow
-└── 4. Understanding Ownership
-    ├── 4.1. What Is Ownership
-    ├── 4.2. References And Borrowing
-    └── 4.3. The Slice Type
+├── 4. Understanding Ownership
+│   ├── 4.1. What Is Ownership
+│   ├── 4.2. References And Borrowing
+│   └── 4.3. The Slice Type
+└── 5. Using Structs To Structure Related Data
+    └── 5.1. Defining And Instantiating Structs
 ```
