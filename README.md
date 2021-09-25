@@ -17,5 +17,6 @@ the rust programming language
 │   └── 4.3. The Slice Type
 └── 5. Using Structs To Structure Related Data
     ├── 5.1. Defining And Instantiating Structs
-    └── 5.2. An Example Program Using Structs
+    ├── 5.2. An Example Program Using Structs
+    └── 5.3. Method Syntax
 ```
