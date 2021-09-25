@@ -15,8 +15,10 @@ the rust programming language
 │   ├── 4.1. What Is Ownership
 │   ├── 4.2. References And Borrowing
 │   └── 4.3. The Slice Type
-└── 5. Using Structs To Structure Related Data
-    ├── 5.1. Defining And Instantiating Structs
-    ├── 5.2. An Example Program Using Structs
-    └── 5.3. Method Syntax
+├── 5. Using Structs To Structure Related Data
+│   ├── 5.1. Defining And Instantiating Structs
+│   ├── 5.2. An Example Program Using Structs
+│   └── 5.3. Method Syntax
+└── 6. Enums And Pattern Matching
+    └── 6.1. Defining An Enum
 ```
