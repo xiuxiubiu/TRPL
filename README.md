@@ -20,5 +20,6 @@ the rust programming language
 │   ├── 5.2. An Example Program Using Structs
 │   └── 5.3. Method Syntax
 └── 6. Enums And Pattern Matching
-    └── 6.1. Defining An Enum
+    ├── 6.1. Defining An Enum
+    └── 6.2. The Match Control Flow Operator
 ```
