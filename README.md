@@ -21,5 +21,6 @@ the rust programming language
 │   └── 5.3. Method Syntax
 └── 6. Enums And Pattern Matching
     ├── 6.1. Defining An Enum
-    └── 6.2. The Match Control Flow Operator
+    ├── 6.2. The Match Control Flow Operator
+    └── 6.3. Concise Control Flow With If Let
 ```
