@@ -19,8 +19,11 @@ the rust programming language
 │   ├── 5.1. Defining And Instantiating Structs
 │   ├── 5.2. An Example Program Using Structs
 │   └── 5.3. Method Syntax
-└── 6. Enums And Pattern Matching
-    ├── 6.1. Defining An Enum
-    ├── 6.2. The Match Control Flow Operator
-    └── 6.3. Concise Control Flow With If Let
+├── 6. Enums And Pattern Matching
+│   ├── 6.1. Defining An Enum
+│   ├── 6.2. The Match Control Flow Operator
+│   └── 6.3. Concise Control Flow With If Let
+└── 7. Managing Growing Projects With Packages Crates And Modules
+    └── 7.1. Packages And Crates
+        └── my-project
 ```
