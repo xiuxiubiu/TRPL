@@ -26,6 +26,8 @@ the rust programming language
 └── 7. Managing Growing Projects With Packages Crates And Modules
     ├── 7.1. Packages And Crates
     │   └── my-project
-    └── 7.2. Defining Modules To Control Scope And Privacy
+    ├── 7.2. Defining Modules To Control Scope And Privacy
+    │   └── restaurant
+    └── 7.3. Paths For Referring To An Item In The Module Tree
         └── restaurant
 ```
