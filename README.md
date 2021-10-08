@@ -28,6 +28,10 @@ the rust programming language
     │   └── my-project
     ├── 7.2. Defining Modules To Control Scope And Privacy
     │   └── restaurant
-    └── 7.3. Paths For Referring To An Item In The Module Tree
+    ├── 7.3. Paths For Referring To An Item In The Module Tree
+    │   └── restaurant
+    └── 7.4. Bringing Paths Into Scope With The Use Keyword
+        ├── hash_map
+        ├── pub_use
         └── restaurant
 ```
