@@ -30,8 +30,10 @@ the rust programming language
     │   └── restaurant
     ├── 7.3. Paths For Referring To An Item In The Module Tree
     │   └── restaurant
-    └── 7.4. Bringing Paths Into Scope With The Use Keyword
-        ├── hash_map
-        ├── pub_use
+    ├── 7.4. Bringing Paths Into Scope With The Use Keyword
+    │   ├── hash_map
+    │   ├── pub_use
+    │   └── restaurant
+    └── 7.5. Separating Modules Into Different Files
         └── restaurant
 ```
