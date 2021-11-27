@@ -23,17 +23,19 @@ the rust programming language
 │   ├── 6.1. Defining An Enum
 │   ├── 6.2. The Match Control Flow Operator
 │   └── 6.3. Concise Control Flow With If Let
-└── 7. Managing Growing Projects With Packages Crates And Modules
-    ├── 7.1. Packages And Crates
-    │   └── my-project
-    ├── 7.2. Defining Modules To Control Scope And Privacy
-    │   └── restaurant
-    ├── 7.3. Paths For Referring To An Item In The Module Tree
-    │   └── restaurant
-    ├── 7.4. Bringing Paths Into Scope With The Use Keyword
-    │   ├── hash_map
-    │   ├── pub_use
-    │   └── restaurant
-    └── 7.5. Separating Modules Into Different Files
-        └── restaurant
+├── 7. Managing Growing Projects With Packages Crates And Modules
+│   ├── 7.1. Packages And Crates
+│   │   └── my-project
+│   ├── 7.2. Defining Modules To Control Scope And Privacy
+│   │   └── restaurant
+│   ├── 7.3. Paths For Referring To An Item In The Module Tree
+│   │   └── restaurant
+│   ├── 7.4. Bringing Paths Into Scope With The Use Keyword
+│   │   ├── hash_map
+│   │   ├── pub_use
+│   │   └── restaurant
+│   └── 7.5. Separating Modules Into Different Files
+│       └── restaurant
+└── 8. Common Collections
+    └── 8.1 Vectors
 ```
