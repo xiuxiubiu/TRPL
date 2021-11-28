@@ -37,6 +37,7 @@ the rust programming language
 │   └── 7.5. Separating Modules Into Different Files
 │       └── restaurant
 └── 8. Common Collections
-    ├── 8.1 Vectors
-    └── 8.2. String
+    ├── 8.1. Vectors
+    ├── 8.2. String
+    └── 8.3. HashMap
 ```
