@@ -36,8 +36,10 @@ the rust programming language
 │   │   └── restaurant
 │   └── 7.5. Separating Modules Into Different Files
 │       └── restaurant
-└── 8. Common Collections
-    ├── 8.1. Vectors
-    ├── 8.2. String
-    └── 8.3. HashMap
+├── 8. Common Collections
+│   ├── 8.1. Vectors
+│   ├── 8.2. String
+│   └── 8.3. HashMap
+└── 9. Error Handling
+    └── 9.1. Unrecoverable Errors with panic
 ```
