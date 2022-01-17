@@ -41,5 +41,6 @@ the rust programming language
 │   ├── 8.2. String
 │   └── 8.3. HashMap
 └── 9. Error Handling
-    └── 9.1. Unrecoverable Errors with panic
+    ├── 9.1. Unrecoverable Errors with panic
+    └── 9.2. Recoverable Errors with Result
 ```
