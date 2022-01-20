@@ -46,4 +46,5 @@ the rust programming language
     └── 9.3. To panic! or Not to panic!
 └── 10. Generic Types, Traits, and Lifetimes
     └── Removing Duplication By Extracting a Function
+    └── 10.1. Generic Data Types
 ```
