@@ -44,4 +44,6 @@ the rust programming language
     ├── 9.1. Unrecoverable Errors with panic
     └── 9.2. Recoverable Errors with Result
     └── 9.3. To panic! or Not to panic!
+└── 10. Generic Types, Traits, and Lifetimes
+    └── Removing Duplication By Extracting a Function
 ```
